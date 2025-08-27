@@ -37,7 +37,7 @@
 
 ## Assignment #3  
 - Epipolar lines  
-  <img src="https://github.com/sohyun902/Computer-Vision/blob/main/CV_A3/img1.png" width="200">  <img src="https://github.com/sohyun902/Computer-Vision/blob/main/CV_A3/img2.png" width="200">  <img src="https://github.com/sohyun902/Computer-Vision/blob/main/CV_A3/img3.png" width="200">
+    <img src="https://github.com/sohyun902/Computer-Vision/blob/main/CV_A3/img1.png" width="200">  <img src="https://github.com/sohyun902/Computer-Vision/blob/main/CV_A3/img2.png" width="200">  <img src="https://github.com/sohyun902/Computer-Vision/blob/main/CV_A3/img3.png" width="200">
 
 ## Assignment #4  
 - Image Descriptor  
