@@ -36,7 +36,8 @@
 <img src="https://github.com/sohyun902/Computer-Vision/blob/main/CV_A2/result/A2_Stitched%20images%20with%20gradation.png" width="600">  
 
 ## Assignment #3  
-- Epipolar lines
+- Epipolar lines  
+  <img src="https://github.com/sohyun902/Computer-Vision/blob/main/CV_A3/img1.png" width="200">  <img src="https://github.com/sohyun902/Computer-Vision/blob/main/CV_A3/img2.png" width="200">  <img src="https://github.com/sohyun902/Computer-Vision/blob/main/CV_A3/img3.png" width="200">
 
 ## Assignment #4  
 - Image Descriptor  
