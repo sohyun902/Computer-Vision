@@ -32,7 +32,7 @@
 
 <img src="https://github.com/sohyun902/Computer-Vision/blob/main/CV_A2/result/A2_Homography%20with%20RANSAC_wrapped.png" width="400">  <img src="https://github.com/sohyun902/Computer-Vision/blob/main/CV_A2/result/A2_hp_Homography%20with%20RANSAC_wrapped.png" width="400">  
 
-- Image Stiching  
+- Image Stitching  
 <img src="https://github.com/sohyun902/Computer-Vision/blob/main/CV_A2/result/A2_Stitched%20images%20with%20gradation.png" width="600">  
 
 ## Assignment #3  
