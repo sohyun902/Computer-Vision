@@ -25,6 +25,7 @@
 
 ## Assignment #2
 ***Part #1. 2D Transfomration***  
+<img src="https://github.com/sohyun902/Computer-Vision/blob/main/CV_A2/result/smile.png" width="200">
 
 ***Part #2. Homography***  
 - Image warping (Homography wiht RANSAC)
