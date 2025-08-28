@@ -28,7 +28,7 @@
 <img src="https://github.com/sohyun902/Computer-Vision/blob/main/CV_A2/result/smile.png" width="200">
 
 ***Part #2. Homography***  
-- Image warping (Homography wiht RANSAC)
+- Image warping (Homography with RANSAC)
 
 <img src="https://github.com/sohyun902/Computer-Vision/blob/main/CV_A2/result/A2_Homography%20with%20RANSAC_wrapped.png" width="400">  <img src="https://github.com/sohyun902/Computer-Vision/blob/main/CV_A2/result/A2_hp_Homography%20with%20RANSAC_wrapped.png" width="400">  
 
